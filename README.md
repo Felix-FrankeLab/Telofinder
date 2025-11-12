@@ -1,0 +1,2 @@
+The script Telofinder can be called directly as Telofinder -s (path to your fastq or fastq.gz file). With -m you can change the minimum length that you want to except as telomeres. 50 is the default and (in the datasets we tested) excludes no real telomeres.
+It is a good idea to check the output of the scripts manually when using the script for the first time to see if it includes any things that are not telomeres from your data.
